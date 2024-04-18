@@ -4,3 +4,6 @@ type(5)
 
 if True:
     print('testing')
+
+
+'ahahha'.split()
